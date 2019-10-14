@@ -9,7 +9,7 @@
 <p align="center">Código do primeiro módulo do <a href="https://rocketseat.com.br/bootcamp">Bootcamp GoStack</a> 🎓</p>
 
 <p align="center">
-  <a href="#-instalacao-e-execução">Instalação e execução</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
+  <a href="#-instalacao-e-execução">Instalação e execução</a>
 </p>
 
 ## 🚀 Instalação e execução
